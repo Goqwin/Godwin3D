@@ -23,7 +23,6 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import first from "./company/first.png";
-import starbucks from "./company/starbucks.png";
 import impactapp from "./company/impactapp.png";
 
 import carrent from "./carrent.png";
@@ -54,7 +53,6 @@ export {
   typescript,
   threejs,
   first,
-  starbucks,
   impactapp,
   carrent,
   jobit,
