@@ -30,7 +30,7 @@ const Navbar = () => {
       className={`${
         styles.paddingX
       } w-full flex items-center py-5 fixed top-0 z-20 ${
-        scrolled ? "bg-primary" : "bg-transparent"
+        scrolled ? "bg-gradient-to-b from-purple-600 to-black-300" : "bg-opacity-90 bg-black-300"
       }`}
     >
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
@@ -42,10 +42,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
+          <img src={logo} alt='logo' className='w-12 h-15' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Godwin &nbsp;
-            <span className='sm:block hidden'> | G0DW1N </span>
+            <span className='sm:block hidden'> | 3D Portfolio </span>
           </p>
         </Link>
 

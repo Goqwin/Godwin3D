@@ -12,17 +12,19 @@ const Hero = () => {
         </div>
         <div className="w-1 sm:h-80 h-40 bg-gradient-to-b from-yellow-300 to-yellow-500" />
         <div>
-          <h1 className={`prose ${styles.heroHeadText} text-sm large:text-base text-lime font-mono`}>
-            Hello World! I'm&nbsp;
-            <span className="relative w-auto">
-              <span className="bg-gradient-to-r from-gold-200 to-black-300 bg-clip-text text-large lg:text-large absolute top-2 left-3 lg:top-2 lg:left-3 z-2 text-black font-sans">
-                Godwin
-              </span>
-              <span className="bg-gradient-to-r from-gold-500 to-gold-800 text-transparent bg-clip-text text-large lg:text-large absolute top-1 left-2 lg:top-1 lg:left-2 z-3 font-sans">
-                Godwin
-              </span>
-            </span>
-          </h1>
+        <div>
+  <h1 className={`prose ${styles.heroHeadText} text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl text-lime font-mono`}>
+    Hello World! I'm&nbsp;
+    <span className="relative w-auto">
+      <div className="md:flex">
+        <span className="bg-gradient-to-r from-gold-500 to-gold-800 text-transparent bg-clip-text text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl absolute top-1 left-2 lg:top-1 lg:left-2 z-3 font-sans text-shadow-black">
+          Godwin
+        </span>
+      </div>
+    </span>
+  </h1>
+</div>
+
           <p className={`${styles.heroSubText} mt-2 text-white`}>
             I develop Object-Oriented Programs, Databases, 3D Visual Interfaces, and Web applications
           </p>
