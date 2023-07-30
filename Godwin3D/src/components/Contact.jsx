@@ -119,14 +119,14 @@ const Contact = () => {
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="Discord" class="bg-white rounded-full w-20 h-20 border-2 border-black hover:scale-110" />
   </a>
   <a href="https://www.linkedin.com/in/godwin-jb-mercado-346727237/" target="_blank" rel="noopener noreferrer">
-    <img src="https://th.bing.com/th/id/R.21fba12531ac377e1642a01921db9fbd?rik=ErbH90Kfy3L6tg&riu=http%3a%2f%2fencomium.ng%2fwp-content%2fuploads%2f2016%2f01%2fLinkedIn-Logo.png&ehk=qo9l10kLERwTTr5WEWyHeVR%2bKIWh4CchVBnnAxyz3ic%3d&risl=&pid=ImgRaw&r=0" alt="LinkedIn" class="bg-white rounded-full w-20 h-20 border-2 border-black hover:scale-110" />
+    <img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo.png" alt="LinkedIn" class="bg-white rounded-full w-20 h-20 border-2 border-black hover:scale-110" />
   </a>
   <a href="https://github.com/Goqwin" target="_blank" rel="noopener noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="GitHub" class="bg-white rounded-full w-20 h-20 border-2 border-black hover:scale-110" />
   </a>
   <a href="https://goqwin.github.io/Resume/" target="_blank" rel="noopener noreferrer">
     <div class="bg-white rounded-full w-20 h-20 border-2 border-black hover:scale-110">
-      <p class="text-black text-center font-medium">MY RESUME</p>
+      <p class="text-black text-center font-medium">MON RESUMEE  ͡~ ͜ʖ ͡°</p>
     </div>
   </a>
 </div>
